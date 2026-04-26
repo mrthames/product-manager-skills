@@ -1,0 +1,23 @@
+{
+  "name": "product-manager-skills",
+  "version": "1.0.0",
+  "description": "AI-native product management skills for Claude Code — compress the mechanical work so PMs focus on decisions, relationships, and problems worth solving.",
+  "author": {
+    "name": "Justin Thames",
+    "url": "https://github.com/mrthames"
+  },
+  "homepage": "https://github.com/mrthames/product-manager-skills",
+  "repository": "https://github.com/mrthames/product-manager-skills",
+  "license": "MIT",
+  "keywords": [
+    "product-management",
+    "pm-skills",
+    "ai-native",
+    "prd",
+    "discovery",
+    "prioritization",
+    "stakeholder-alignment",
+    "saas-metrics",
+    "go-to-market"
+  ]
+}
