@@ -249,7 +249,7 @@ When working with Claude Code as a product manager, try these patterns:
 
 ## Available Skills
 
-This plugin includes 8 focused skills for specific PM tasks. Skills load on invocation and provide deep, step-by-step guidance with prompt examples:
+This plugin includes 15 focused skills for specific PM tasks. Skills load on invocation and provide deep, step-by-step guidance with prompt examples:
 
 | Skill | Use When... |
 |---|---|
@@ -261,3 +261,10 @@ This plugin includes 8 focused skills for specific PM tasks. Skills load on invo
 | [User Research Methods](skills/user-research-methods/SKILL.md) | You need primary evidence from users |
 | [Go-to-Market Planning](skills/go-to-market-planning/SKILL.md) | Shipping something that needs coordinated market entry |
 | [Tech Debt Communication](skills/tech-debt-communication/SKILL.md) | Engineering needs investment and you need to make the case |
+| [Sprint & Release Planning](skills/sprint-release-planning/SKILL.md) | Breaking epics into stories and planning sprint capacity |
+| [Metrics Review](skills/metrics-review/SKILL.md) | Weekly/biweekly product health check and data storytelling |
+| [Competitive Response](skills/competitive-response/SKILL.md) | A competitor just made a move and you need to respond |
+| [OKR & Goal Setting](skills/okr-goal-setting/SKILL.md) | Setting quarterly objectives and measurable key results |
+| [Feature Sunset & EOL](skills/feature-sunset/SKILL.md) | Deprecating a feature or sunsetting a product |
+| [Post-Mortem](skills/post-mortem/SKILL.md) | Learning from a failure, missed target, or incident |
+| [Build vs. Buy](skills/build-vs-buy/SKILL.md) | Evaluating build in-house vs. vendor vs. partner |

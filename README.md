@@ -1,6 +1,6 @@
 ![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Skills](https://img.shields.io/badge/skills-8-orange?style=flat-square)
+![Skills](https://img.shields.io/badge/skills-15-orange?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI-Native](https://img.shields.io/badge/AI--Native_PM-ff6b35?style=flat-square)
 
@@ -55,6 +55,13 @@ See [CURSOR.md](CURSOR.md) for details.
 | **[User Research Methods](skills/user-research-methods/SKILL.md)** | Plan and execute interviews, usability tests, or surveys with synthesis | 1-3 days |
 | **[Go-to-Market Planning](skills/go-to-market-planning/SKILL.md)** | Build a GTM plan — messaging, channels, enablement, launch timeline | 1-2 days |
 | **[Tech Debt Communication](skills/tech-debt-communication/SKILL.md)** | Quantify and communicate tech debt as a business investment case | 2-4 hours |
+| **[Sprint & Release Planning](skills/sprint-release-planning/SKILL.md)** | Break epics into stories, model capacity, sequence work, flag risks | 1 hour |
+| **[Metrics Review](skills/metrics-review/SKILL.md)** | Regular metrics review — spot patterns, flag anomalies, build the data narrative | 30 minutes |
+| **[Competitive Response](skills/competitive-response/SKILL.md)** | Assess and respond to a competitor move within 24-48 hours | 2-4 hours |
+| **[OKR & Goal Setting](skills/okr-goal-setting/SKILL.md)** | Set quarterly OKRs — objectives, key results, alignment, stress-test | 2-3 hours |
+| **[Feature Sunset & EOL](skills/feature-sunset/SKILL.md)** | Plan and communicate a feature deprecation or product end-of-life | Half day |
+| **[Post-Mortem](skills/post-mortem/SKILL.md)** | Structured, blameless post-mortem after a failure or incident | 2-3 hours |
+| **[Build vs. Buy](skills/build-vs-buy/SKILL.md)** | Evaluate build in-house vs. vendor vs. partner with TCO analysis | Half day |
 
 ---
 
@@ -70,6 +77,13 @@ See [CURSOR.md](CURSOR.md) for details.
 | "I need to understand our users better before committing" | [User Research Methods](skills/user-research-methods/SKILL.md) | Research plan, discussion guides or surveys, synthesized findings |
 | "We're launching next month and need a GTM plan" | [Go-to-Market Planning](skills/go-to-market-planning/SKILL.md) | Messaging framework, channel strategy, enablement materials, launch timeline |
 | "Engineering says we need to address tech debt" | [Tech Debt Communication](skills/tech-debt-communication/SKILL.md) | Business-framed investment case with quantified velocity, risk, and opportunity cost |
+| "Sprint planning is tomorrow and I'm not prepped" | [Sprint & Release Planning](skills/sprint-release-planning/SKILL.md) | Broken-down stories, capacity model, dependency map, scope trade-off analysis |
+| "What are the numbers telling us this week?" | [Metrics Review](skills/metrics-review/SKILL.md) | Structured metrics review with trends, anomalies, and audience-ready narrative |
+| "A competitor just launched something — what do we do?" | [Competitive Response](skills/competitive-response/SKILL.md) | Impact assessment, response options, sales talking points, leadership brief |
+| "It's planning season and I need to set goals" | [OKR & Goal Setting](skills/okr-goal-setting/SKILL.md) | 2-4 objectives with measurable key results, alignment to strategy, leading indicators |
+| "We need to deprecate this feature but users depend on it" | [Feature Sunset & EOL](skills/feature-sunset/SKILL.md) | Impact analysis, migration plan, multi-phase communication, internal FAQ |
+| "That launch did not go well — what happened?" | [Post-Mortem](skills/post-mortem/SKILL.md) | Blameless timeline, contributing factors, lessons learned, 3-5 owned action items |
+| "Should we build this ourselves or buy a solution?" | [Build vs. Buy](skills/build-vs-buy/SKILL.md) | Requirements, option evaluation, TCO comparison, strategic fit, decision document |
 
 ---
 
