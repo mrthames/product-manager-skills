@@ -236,35 +236,6 @@ No AI-generated artifact should leave your hands without your judgment applied.
 4. **Scope Ruthlessly** — Ship the smallest thing that tests the hypothesis
 5. **Stay Evidence-Based** — Distinguish between what data says, what it suggests, and what is assumption
 
----
-
-<details>
-<summary>🤝 Contributing</summary>
-
-To add a new skill, create `skills/<skill-name>/SKILL.md` following the format in existing skills:
-
-```
----
-name: skill-name
-description: One-line trigger description (under 200 chars)
----
-# Title
-## When to Use / When NOT to Use
-## The AI-Native Approach
-## Process (stepped, with prompt examples)
-## Output
-## Common Pitfalls
-## Related Skills
-```
-
-When updating behavioral guidelines, keep these in sync:
-- `CLAUDE.md` — Full guidelines
-- `.cursor/rules/product-manager-guidelines.mdc` — Cursor rules (condensed)
-
-</details>
-
----
-
 ## 📄 License
 
 MIT
