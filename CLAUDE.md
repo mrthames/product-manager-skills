@@ -1,4 +1,4 @@
-# Product Manager Skills for Claude Code
+# Lean PM Skills for Claude Code
 
 ## Setup
 

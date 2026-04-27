@@ -4,7 +4,7 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI-Native](https://img.shields.io/badge/AI--Native_PM-ff6b35?style=flat-square)
 
-# Product Manager Skills for Claude Code
+# Lean PM Skills for Claude Code
 
 AI-native product management skills that compress the mechanical work — research synthesis, artifact generation, framework execution — so you can focus on what only a human PM can do: stakeholder relationships, strategic decisions, and understanding problems worth solving.
 
@@ -17,26 +17,26 @@ AI-native product management skills that compress the mechanical work — resear
 ### Claude Code Plugin (recommended)
 
 ```bash
-/plugin install product-manager-skills
+/plugin install lean-pm-skills
 ```
 
 ### Manual — Just the Guidelines
 
 ```bash
-curl -o CLAUDE.md https://raw.githubusercontent.com/mrthames/product-manager-skills/main/CLAUDE.md
+curl -o CLAUDE.md https://raw.githubusercontent.com/mrthames/lean-pm-skills/main/CLAUDE.md
 ```
 
 ### Full Clone — All Guides, Templates, and Skills
 
 ```bash
-git clone https://github.com/mrthames/product-manager-skills.git
+git clone https://github.com/mrthames/lean-pm-skills.git
 ```
 
 ### Cursor
 
 ```bash
 mkdir -p .cursor/rules
-cp product-manager-skills/.cursor/rules/product-manager-guidelines.mdc .cursor/rules/
+cp lean-pm-skills/.cursor/rules/product-manager-guidelines.mdc .cursor/rules/
 ```
 
 See [CURSOR.md](CURSOR.md) for details.

@@ -1,15 +1,16 @@
 {
-  "name": "product-manager-skills",
+  "name": "lean-pm-skills",
   "version": "1.0.0",
-  "description": "AI-native product management skills for Claude Code — compress the mechanical work so PMs focus on decisions, relationships, and problems worth solving.",
+  "description": "Lean, AI-native product management skills for Claude Code — 15 skills that compress weeks of PM work into hours and days so you focus on decisions, not documents.",
   "author": {
     "name": "Justin Thames",
     "url": "https://github.com/mrthames"
   },
-  "homepage": "https://github.com/mrthames/product-manager-skills",
-  "repository": "https://github.com/mrthames/product-manager-skills",
+  "homepage": "https://github.com/mrthames/lean-pm-skills",
+  "repository": "https://github.com/mrthames/lean-pm-skills",
   "license": "MIT",
   "keywords": [
+    "lean-pm",
     "product-management",
     "pm-skills",
     "ai-native",
