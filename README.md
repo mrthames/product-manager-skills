@@ -10,7 +10,7 @@
 
 Compress the mechanical PM work — research synthesis, artifact generation, framework execution — so you can focus on what only a human PM can do: stakeholder relationships, strategic decisions, and understanding problems worth solving.
 
-> 💡 **The philosophy:** Traditional PM frameworks are sound. Traditional PM timelines are not. Every skill in this plugin is designed for hours and days, not weeks and months. AI handles the first 80%. You handle the last 20% — the 20% that determines whether the product succeeds.
+> 💡 **The philosophy:** You already know lean — eliminate waste, move fast, validate early. We just gave it an AI engine. Every skill in this plugin is designed for hours and days, not weeks and months. AI handles the first 80%. You handle the last 20% — the 20% that determines whether the product succeeds.
 
 ---
 
