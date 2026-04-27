@@ -154,20 +154,4 @@ A PRD that includes notification preferences, a notification center inbox, push 
 
 ## Human-in-the-Loop in Practice
 
-### What Claude Does
-
-- Generates the first draft of the PRD from your problem statement
-- Enumerates edge cases you might miss
-- Applies RICE scoring to your backlog data
-- Structures the stakeholder update in the right format and tone
-- Synthesizes 200 support tickets into 5 themes with frequency counts
-
-### What You Do
-
-- Decide whether the problem is worth solving
-- Validate that the acceptance criteria match what you actually mean
-- Override the RICE score when strategic context says otherwise
-- Add the political context and relationship nuance to the stakeholder update
-- Read the raw tickets that sit behind the most surprising theme to verify Claude's interpretation
-
-The pattern: Claude does the first 80% (structure, thoroughness, formatting). You do the last 20% (judgment, context, decisions). That last 20% is the part that matters most.
+See [CLAUDE.md](CLAUDE.md) for the full human-in-the-loop model. The short version: AI handles the first 80% (structure, thoroughness, formatting). You handle the last 20% (judgment, context, decisions). That last 20% is the part that matters most.

@@ -249,7 +249,7 @@ When working with Claude Code as a product manager, try these patterns:
 
 ## Available Skills
 
-This plugin includes 15 focused skills for specific PM tasks. Skills load on invocation and provide deep, step-by-step guidance with prompt examples:
+This plugin includes focused skills for specific PM tasks. Skills load on invocation and provide deep, step-by-step guidance with prompt examples:
 
 | Skill | Use When... |
 |---|---|
@@ -268,3 +268,5 @@ This plugin includes 15 focused skills for specific PM tasks. Skills load on inv
 | [Feature Sunset & EOL](skills/feature-sunset/SKILL.md) | Deprecating a feature or sunsetting a product |
 | [Post-Mortem](skills/post-mortem/SKILL.md) | Learning from a failure, missed target, or incident |
 | [Build vs. Buy](skills/build-vs-buy/SKILL.md) | Evaluating build in-house vs. vendor vs. partner |
+| [Experiment Design](skills/experiment-design/SKILL.md) | Testing a hypothesis before committing to a full build |
+| [Roadmap Planning](skills/roadmap-planning/SKILL.md) | Translating strategy and OKRs into a sequenced plan |

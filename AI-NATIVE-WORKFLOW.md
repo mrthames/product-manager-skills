@@ -218,19 +218,8 @@ Over time, save these formatting instructions as part of your project's CLAUDE.m
 
 ## Measuring the Impact of AI-Native PM
 
-How do you know if this approach is working? Track these indicators:
+Track whether the lean approach is working with three signal types:
 
-**Speed metrics:**
-- Time from problem identification to spec-ready (should compress)
-- Time from spec to engineering kickoff (should compress)
-- Time spent on artifact generation vs. decision-making (ratio should shift toward decisions)
-
-**Quality metrics:**
-- Questions from engineering after spec handoff (should decrease)
-- Spec revisions after development starts (should decrease)
-- Readiness materials available at launch vs. post-launch (should shift to at-launch)
-
-**Outcome metrics (unchanged):**
-- User adoption, retention, satisfaction — these measure your product decisions, not your tooling
-- Business impact per feature — same
-- Stakeholder satisfaction with visibility and communication — may improve with more consistent updates
+- **Speed:** Time from problem to spec-ready, and spec to engineering kickoff — both should compress. The ratio of time on artifacts vs. decisions should shift toward decisions.
+- **Quality:** Questions from engineering after handoff and spec revisions after development starts — both should decrease. Readiness materials should be available at launch, not after.
+- **Outcomes:** User adoption, retention, satisfaction, and business impact per feature — these measure your product decisions, not your tooling. They shouldn't change because of AI; they should improve because you have more time for the work that actually moves them.

@@ -4,7 +4,7 @@ Traditional PM frameworks were designed for a world where research synthesis too
 
 In AI-native product development, Claude handles the mechanical parts of framework execution: structuring the analysis, running the scoring, synthesizing the inputs, and drafting the outputs. You handle the parts that require human judgment: choosing the right framework, providing the context, validating the inputs, and making the call.
 
-The result: frameworks that used to take weeks take days. Discovery that used to require a dedicated sprint happens in focused sessions. The speed gain doesn't come from cutting corners — it comes from compressing the mechanical work so you can spend more time on the decisions that matter.
+The result: frameworks that used to take weeks take days. Discovery that used to require a dedicated sprint happens in focused sessions. The speed gain doesn't come from cutting corners — it comes from eliminating the waste (manual synthesis, repetitive formatting, framework boilerplate) so you can spend more time on the decisions that matter. Each framework below has been stripped to its essential steps — the minimum viable process that still produces a quality decision.
 
 ---
 
@@ -42,6 +42,20 @@ Claude will recommend a framework based on your situation. Use the guide below t
 | Test a hypothesis before building | Experiment Brief | Any bet where you can validate cheaply before committing |
 | Break large work into shippable slices | Story Splitting | Anything estimated above a sprint's capacity |
 | Connect product work to business outcomes | SaaS Metrics | Executive conversations, investment cases, portfolio decisions |
+
+### When Multiple Frameworks Fit
+
+If you're stuck choosing between similar frameworks, use this decision logic:
+
+**RICE vs. ICE:** Use RICE when you have real reach data and need to justify prioritization to stakeholders. Use ICE when you're moving fast and need a quick gut-check ranking — it trades precision for speed. Lean default: start with ICE, upgrade to RICE when the stakes justify the rigor.
+
+**RICE vs. Cost of Delay:** Use RICE when comparing items of similar urgency. Use Cost of Delay when timing is the key variable — "should we do A now and B later, or B now and A later?" If the answer to "does waiting a month change the value?" is yes, Cost of Delay is the right lens.
+
+**Jobs-to-be-Done vs. Customer Journey Map:** JTBD answers "what are people trying to accomplish?" Journey Maps answer "what's the experience of trying to accomplish it?" Use JTBD when you're exploring a new space. Use Journey Maps when you know the job but need to find friction in the current experience.
+
+**Opportunity Solution Tree vs. JTBD:** Both are discovery tools. JTBD generates opportunities; OST structures and prioritizes them. In practice: start with JTBD to map the landscape, then use OST to decide where to focus.
+
+**The lean principle:** Use the lightest framework that gives you a decision. A 15-minute ICE score beats a 2-hour RICE analysis if both lead to the same sequencing. Upgrade your framework when the decision stakes are high enough to justify the extra rigor.
 
 ---
 

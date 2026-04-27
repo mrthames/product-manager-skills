@@ -1,6 +1,6 @@
-![Version](https://img.shields.io/badge/version-1.0.0-blue?style=flat-square)
+![Version](https://img.shields.io/badge/version-1.1.0-blue?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
-![Skills](https://img.shields.io/badge/skills-15-orange?style=flat-square)
+![Skills](https://img.shields.io/badge/skills-17-orange?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-Plugin-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![AI-Native](https://img.shields.io/badge/AI--Native_PM-ff6b35?style=flat-square)
 
@@ -59,6 +59,7 @@ See [CURSOR.md](CURSOR.md) for details.
 | **[User Research Methods](skills/user-research-methods/SKILL.md)** | Plan and execute interviews, usability tests, or surveys with synthesis | 1-3 days |
 | **[Pricing & Packaging](skills/pricing-packaging/SKILL.md)** | Value-based pricing analysis, tier design, and revenue modeling | 1-2 days |
 | **[Build vs. Buy](skills/build-vs-buy/SKILL.md)** | Evaluate build in-house vs. vendor vs. partner with TCO analysis | Half day |
+| **[Experiment Design](skills/experiment-design/SKILL.md)** | Lean build-measure-learn loop — hypothesis, cheapest test, validated learning | 1-2 hours |
 
 ### ⚡ Execution & Delivery
 
@@ -67,6 +68,7 @@ See [CURSOR.md](CURSOR.md) for details.
 | **[Sprint & Release Planning](skills/sprint-release-planning/SKILL.md)** | Break epics into stories, model capacity, sequence work, flag risks | 1 hour |
 | **[OKR & Goal Setting](skills/okr-goal-setting/SKILL.md)** | Set quarterly OKRs — objectives, key results, alignment, stress-test | 2-3 hours |
 | **[Go-to-Market Planning](skills/go-to-market-planning/SKILL.md)** | Build a GTM plan — messaging, channels, enablement, launch timeline | 1-2 days |
+| **[Roadmap Planning](skills/roadmap-planning/SKILL.md)** | Translate strategy and OKRs into sequenced, audience-specific roadmaps | 2-4 hours |
 | **[Feature Sunset & EOL](skills/feature-sunset/SKILL.md)** | Plan and communicate a feature deprecation or product end-of-life | Half day |
 
 ### 🤝 Alignment & Communication
@@ -188,6 +190,26 @@ Something went wrong — missed targets, quality issues, user backlash, or a ful
 **With Lean PM Skills:** [Post-Mortem](skills/post-mortem/SKILL.md) structures a blameless post-mortem in 2-3 hours. Claude builds the timeline from your notes, categorizes contributing factors objectively, extracts lessons, and drafts 3-5 specific, owned, time-bound action items. You facilitate the conversation and ensure the team actually learns.
 
 **What you get:** Chronological timeline, contributing factors analysis, prioritized lessons, and 3-5 actionable follow-ups with owners and deadlines.
+
+---
+
+### 🧪 "We think this will work, but I want to test before we commit a full sprint."
+
+You have a hypothesis — maybe a new onboarding flow will improve activation, maybe a pricing change will increase upgrades. But building the full thing to find out is expensive. The traditional approach is either "just ship it and see" or a multi-week experiment design process.
+
+**With Lean PM Skills:** [Experiment Design](skills/experiment-design/SKILL.md) walks you through the lean build-measure-learn loop in 1-2 hours. Claude helps you map your riskiest assumptions, design the cheapest valid test (fake door, concierge, A/B), set clear success/kill criteria, and monitor results. You define the hypothesis and make the ship/iterate/kill call when the data comes in.
+
+**What you get:** Ranked assumption map, experiment brief with hypothesis and success criteria, monitoring framework, and a decision recommendation with validated learning.
+
+---
+
+### 🗺️ "Leadership wants to know what we're building this quarter and why."
+
+You've got OKRs, a backlog, some commitments, and a strategy — but they're in different docs and nobody has a clear picture of what's shipping when. The traditional approach is a multi-day planning offsite or weeks of spreadsheet wrangling.
+
+**With Lean PM Skills:** [Roadmap Planning](skills/roadmap-planning/SKILL.md) translates your strategy and OKRs into a sequenced roadmap in 2-4 hours. Claude synthesizes your inputs, proposes sequencing based on dependencies and value, and generates three audience-specific views — a detailed view for the team, a timeline view for leadership, and a theme-based view for stakeholders. You apply the sequencing judgment and political reality.
+
+**What you get:** Sequenced roadmap with rationale, three audience-specific views (team, leadership, stakeholder), capacity analysis, and an explicit "not doing" list.
 
 ---
 
