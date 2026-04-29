@@ -1,0 +1,14 @@
+{
+  "name": "lean-pm-skills-marketplace",
+  "owner": {
+    "name": "Justin Thames",
+    "url": "https://github.com/mrthames"
+  },
+  "plugins": [
+    {
+      "name": "lean-pm-skills",
+      "source": "./",
+      "description": "Lean, AI-native product management skills for Claude Code. Compress discovery, definition, planning, and analysis into hours and days."
+    }
+  ]
+}

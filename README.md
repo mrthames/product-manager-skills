@@ -22,8 +22,19 @@ Strategy, discovery, documentation, financials, analytics, delivery — every di
 
 ### Claude Code Plugin (recommended)
 
+In Claude Code, add the marketplace and install the plugin:
+
 ```bash
-/plugin install lean-pm-skills
+/plugin marketplace add mrthames/lean-pm-skills
+/plugin install lean-pm-skills@lean-pm-skills-marketplace
+```
+
+The first command registers this repo as a single-plugin marketplace. The second installs `lean-pm-skills` from it. After install, the skills are available in any Claude Code session.
+
+To update later:
+
+```bash
+/plugin marketplace update lean-pm-skills-marketplace
 ```
 
 ### Manual — Just the Guidelines
